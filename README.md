@@ -1,2 +1,2 @@
 # Script-Eliminar-Capturas-Antiguas
-Script para eliminar autimaticamente screenshot antiguas.
+- El objetivo del script es eliminar autimaticamente screenshot antiguas.
